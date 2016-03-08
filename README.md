@@ -9,6 +9,12 @@ bug参见这个链接[解决Node.js调用fs.renameSync报错的问题（Error: E
 使用方法：
 
 >git clone https://github.com/ZZR-china/Node-Introduction-Demo
-cd Node-Introduction-Demo
-npm install
-node index.js
+
+>cd Node-Introduction-Demo
+
+>npm install
+
+>node index.js
+
+然后访问localhost:3000就会看到效果
+
