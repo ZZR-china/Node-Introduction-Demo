@@ -1,0 +1,24 @@
+{
+  "name": "startnode",
+  "version": "1.0.0",
+  "description": "start node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "key",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "keywords": [
+    "nice"
+  ],
+  "author": "zzr",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {}
+}
